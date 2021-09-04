@@ -1,0 +1,21 @@
+{
+"name": "LK21",
+  "description": "Telegram bot untuk mencari film",
+  "keywords": [
+    "telegram",
+    "userbot"
+  ],
+  "repository": "https://github.com/nekozu/nekozuuserbotpython",
+  "env": {
+    "token": {
+      "description": "bot token dar botfather",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "stack": "heroku-20"
+}
