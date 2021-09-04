@@ -3,7 +3,7 @@
 ![LICENSE](https://img.shields.io/github/license/nekozu/lk21-elegram-bot?style=for-the-badge&logo=appveyor)
 
 * Bot Link:  <a href="https://t.me/LK21Riobot" alt="Layar Kaca 21"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Layar%20Kaca%21-red" /> </a>
-* News channel: <a  href="https://t.me/RioBotSupport" alt="Rio Info"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-nekozu-9cf" /> </a>
+* News channel: <a  href="https://t.me/RioBotSupport" alt="Rio Info"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Rio Info-9cf" /> </a>
 
 this is a bot to search for movies. For how to install, see below
 
